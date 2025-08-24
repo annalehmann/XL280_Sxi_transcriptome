@@ -1,4 +1,4 @@
-## Transcriptome analysis of SXI1 and SXI2 mutants during *Cryptococcus deneoformans* sexual reproduction
+## Transcriptome analysis of *SXI1* and *SXI2* mutants during *Cryptococcus deneoformans* sexual reproduction
 This repository contains code used for the transcriptome analysis and associated figure generation in: \
 \
 Huang J, Lehmann AE, Peterson PP, Xu Z, Xiong L, Sun S, Heitman J.
