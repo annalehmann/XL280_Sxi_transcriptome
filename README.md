@@ -3,7 +3,7 @@ This repository contains code used for the transcriptome analysis and associated
 \
 Huang J, Lehmann AE, Peterson PP, Xu Z, Xiong L, Sun S, Heitman J.
 Homeodomain protein Sxi1α independently controls cell-cell fusion and gene expression during sexual reproduction
-in *Cryptococcus deneoformans*. *bioRxiv*. 2025.https://doi.org/10.1101/2025.02.11.637763. \
+in *Cryptococcus deneoformans*. *bioRxiv* 2025. https://doi.org/10.1101/2025.02.11.637763. \
 \
 It includes steps to: \
   • Mask α and **a** *MAT* loci in the concetenated XL280 α/**a** genome assembly. \
